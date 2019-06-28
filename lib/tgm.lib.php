@@ -15,7 +15,7 @@ function hoteller_require_plugins() {
 	        'slug'      		 => 'hoteller-elementor',
 	        'source'             => get_template_directory() . '/lib/plugins/hoteller-elementor.zip',
 	        'required'           => true, 
-	        'version'            => '1.9',
+	        'version'            => '1.8.1',
 	    ),
 	    array(
 	        'name'               => 'One Click Demo Import',
@@ -27,7 +27,7 @@ function hoteller_require_plugins() {
 	        'slug'      		 => 'motopress-hotel-booking',
 	        'source'             => get_template_directory() . '/lib/plugins/motopress-hotel-booking.zip',
 	        'required'  		 => true, 
-	        'version'            => '3.5',
+	        'version'            => '3.4',
 	    ),
 	    array(
 	        'name'      => 'WooCommerce',

@@ -350,7 +350,7 @@ jQuery(document).ready(function(){
 	var calScreenHeight = jQuery(window).height()-108;
 	var miniRightPos = 800;
 	
-	/*if(jQuery.browser.msie && parseFloat(jQuery.browser.version)<10)
+	if(jQuery.browser.msie && parseFloat(jQuery.browser.version)<10)
 	{
 		jQuery('.animate').css('opacity', 1);
 		jQuery('.animate').css('visibility', 'visible');
@@ -359,7 +359,7 @@ jQuery(document).ready(function(){
 			jQuery(this).css('opacity', 1);
 			jQuery(this).css('visibility', 'visible');
 		});
-	}*/
+	}
 	
 	jQuery('#overlay_background').on( 'click', function(){
 		if(!jQuery('body').hasClass('js_nav'))

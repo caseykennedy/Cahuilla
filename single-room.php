@@ -140,39 +140,6 @@ if (have_posts()) : while (have_posts()) : the_post();
 					}
 				?>
 				
-				<?php
-					$attributes = mphb_tmpl_get_room_type_attributes();
-
-					if(!empty($attributes))
-					{
-						foreach ($attributes as $attribute_slug => $attribute) {
-							$attribute_id = get_page_by_path($attribute_slug, OBJECT, 'mphb_room_attribute');
-							$image_id = get_post_thumbnail_id($attribute_id); 
-							$image_thumb = wp_get_attachment_image_src($image_id, 'original', true);
-							
-							/*print '<pre>';
-							print_r($attribute);
-							print '</pre>';*/
-							$attribute_text = '';
-							if(count($attribute) == 1 && isset($attribute[0]))
-							{
-								$attribute_text = esc_html($attribute[0]);
-							}
-							else
-							{
-								$attribute_text = implode(", ",$attribute);
-							}
-				?>
-				<div class="singleroom_attribute">
-					<div class="singleroom_view_icon room_icon"><img src="<?php echo esc_url($image_thumb[0]); ?>" alt="<?php echo esc_attr(get_the_title($attribute_id)); ?>"/></div>
-					<div class="singleroom_view room_attribute"><?php echo esc_html($attribute_text); ?>
-					</div>
-				</div>
-				<?php
-						} 
-					}
-				?>
-				
 				<div class="sidebar">
 					<div class="content">
 						<?php 
