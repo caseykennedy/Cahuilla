@@ -1,0 +1,3567 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-07 13:01+0700\n"
+"PO-Revision-Date: 2016-12-30 16:06+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "404 Not Found!"
+msgstr ""
+
+#: ../404.php:31
+msgid ""
+"We're sorry, the page you have looked for does not exist in our content! "
+"Perhaps you would like to go to our homepage or try searching below."
+msgstr ""
+
+#: ../blog-f.php:225 ../blog-l.php:231 ../blog-r.php:227 ../index.php:154
+#: ../lib/plugins/hoteller-elementor/templates/accommodation-types/index.php:79
+#: ../lib/plugins/hoteller-elementor/templates/blog-posts/index.php:100
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/index.php:87
+#: ../search.php:153
+msgid "Page"
+msgstr ""
+
+#: ../blog-f.php:225 ../blog-l.php:231 ../blog-r.php:227 ../index.php:154
+#: ../lib/plugins/hoteller-elementor/templates/accommodation-types/index.php:79
+#: ../lib/plugins/hoteller-elementor/templates/blog-posts/index.php:100
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/index.php:87
+#: ../search.php:153
+msgid "of"
+msgstr ""
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:13 ../comments.php:38
+msgid "Leave A Reply"
+msgstr ""
+
+#: ../comments.php:13
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:13
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:27
+msgid "Previous"
+msgstr ""
+
+#: ../comments.php:27
+msgid "Next"
+msgstr ""
+
+#: ../comments.php:40
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:50 ../modules/fonts/section-fonts.php:31
+#: ../modules/typekit/section-typekit.php:73
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:62
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:74
+msgid "Website"
+msgstr ""
+
+#: ../fields/post.fields.php:4
+msgid "Thumbnail"
+msgstr ""
+
+#: ../fields/post.fields.php:32
+msgid "Post Layout"
+msgstr ""
+
+#: ../fields/post.fields.php:32
+msgid "You can select layout of this single post page."
+msgstr ""
+
+#: ../fields/post.fields.php:34 ../lib/config.lib.php:313
+msgid "Make Menu Transparent"
+msgstr ""
+
+#: ../fields/post.fields.php:34 ../lib/config.lib.php:313
+msgid "Check this option if you want to display main menu in transparent"
+msgstr ""
+
+#: ../fields/post.fields.php:36
+msgid "Video Embed Code"
+msgstr ""
+
+#: ../fields/post.fields.php:36
+msgid "Insert Youtube or Vimeo embed code."
+msgstr ""
+
+#: ../fields/post.fields.php:40
+msgid "Custom Booking URL (Optional)"
+msgstr ""
+
+#: ../fields/post.fields.php:40
+msgid ""
+"Enter URL for booking option so when user click on book button. It will "
+"opens this entered URL. Recommend if you are using 3rd party booking system."
+msgstr ""
+
+#: ../fields/post.fields.php:66
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:188
+msgid "Options"
+msgstr ""
+
+#: ../fields/post.fields.php:209
+#: ../lib/plugins/hoteller-elementor/widgets/accommodation-types.php:195
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:121
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:123
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:132
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:134
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:194
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:189
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:209
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:189
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:153
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:155
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:132
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:134
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:195
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:197
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:134
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:136
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:135
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:137
+#: ../lib/widgets.lib.php:131 ../lib/widgets.lib.php:216
+#: ../lib/widgets.lib.php:438
+msgid "Title"
+msgstr ""
+
+#: ../fields/post.fields.php:242
+msgid "Add another"
+msgstr ""
+
+#: ../functions.php:570
+msgid "Theme Setting"
+msgstr ""
+
+#: ../functions.php:570 ../functions.php:615
+#: ../modules/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../functions.php:622
+msgid "Save"
+msgstr ""
+
+#: ../functions.php:862
+msgid "Add"
+msgstr ""
+
+#: ../header.php:114
+msgid "Back"
+msgstr ""
+
+#: ../lib/config.lib.php:313 ../lib/config.lib.php:315
+#: ../lib/customizer.lib.php:280
+msgid "Page Title"
+msgstr ""
+
+#: ../lib/config.lib.php:315
+msgid "Hide Default Page Header"
+msgstr ""
+
+#: ../lib/config.lib.php:315
+msgid "Check this option if you want to hide default page header"
+msgstr ""
+
+#: ../lib/config.lib.php:317
+msgid "Page Tagline"
+msgstr ""
+
+#: ../lib/config.lib.php:317
+msgid "Page Tagline (Optional)"
+msgstr ""
+
+#: ../lib/config.lib.php:317
+msgid ""
+"Enter page tagline. It will displays under page title (*Note: HTML code also "
+"support)"
+msgstr ""
+
+#: ../lib/config.lib.php:347 ../lib/customizer.lib.php:381
+#: ../lib/plugins/hoteller-elementor/widgets/accommodation-types.php:131
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:166
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:134
+msgid "Layout"
+msgstr ""
+
+#: ../lib/config.lib.php:347
+msgid "Boxed Layout"
+msgstr ""
+
+#: ../lib/config.lib.php:347
+msgid "Check this option if you want to enable boxed layout"
+msgstr ""
+
+#: ../lib/config.lib.php:349 ../lib/config.lib.php:351
+#: ../lib/config.lib.php:353 ../lib/customizer.lib.php:133
+msgid "Footer"
+msgstr ""
+
+#: ../lib/config.lib.php:349
+msgid "Hide Page Footer Sidebar"
+msgstr ""
+
+#: ../lib/config.lib.php:349
+msgid "Check this option if you want to hide page footer sidebar"
+msgstr ""
+
+#: ../lib/config.lib.php:351
+msgid "Hide Page Footer Photostream"
+msgstr ""
+
+#: ../lib/config.lib.php:351
+msgid "Check this option if you want to hide page footer photostream"
+msgstr ""
+
+#: ../lib/config.lib.php:353
+msgid "Hide Page Copyright"
+msgstr ""
+
+#: ../lib/config.lib.php:353
+msgid "Check this option if you want to hide page copyright"
+msgstr ""
+
+#: ../lib/config.lib.php:355
+msgid "Select Sidebar (Optional)"
+msgstr ""
+
+#: ../lib/config.lib.php:355
+msgid "Page Sidebar (Optional)"
+msgstr ""
+
+#: ../lib/config.lib.php:355
+msgid ""
+"Select this page sidebar to display. To use this option, you have to select "
+"page template end with \"Sidebar\" only"
+msgstr ""
+
+#: ../lib/config.lib.php:357
+msgid "Select Menu"
+msgstr ""
+
+#: ../lib/config.lib.php:357
+msgid "Page Menu (Optional)"
+msgstr ""
+
+#: ../lib/config.lib.php:357
+msgid ""
+"Select this page menu if you want to display main menu other than default one"
+msgstr ""
+
+#: ../lib/custom.lib.php:109
+msgid "(Your comment is awaiting moderation.)"
+msgstr ""
+
+#: ../lib/custom.lib.php:128
+msgid "at"
+msgstr ""
+
+#: ../lib/custom.lib.php:134
+msgid "Reply"
+msgstr ""
+
+#: ../lib/custom.lib.php:134
+msgid "Login to Reply"
+msgstr ""
+
+#: ../lib/custom.lib.php:201
+msgid "Recent Posts"
+msgstr ""
+
+#: ../lib/custom.lib.php:695
+msgid "Content Items (Posts, Pages, Custom Post Types, Revisions)"
+msgstr ""
+
+#: ../lib/custom.lib.php:696
+msgid "Excerpts"
+msgstr ""
+
+#: ../lib/custom.lib.php:697
+msgid "Attachments"
+msgstr ""
+
+#: ../lib/custom.lib.php:698
+msgid "Links"
+msgstr ""
+
+#: ../lib/custom.lib.php:699
+msgid "Custom Fields"
+msgstr ""
+
+#: ../lib/custom.lib.php:700
+msgid "GUIDs"
+msgstr ""
+
+#: ../lib/custom.lib.php:976
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#: ../lib/custom.lib.php:1014
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../lib/custom.lib.php:1036
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../lib/custom.lib.php:1067
+msgid "Widget already exists"
+msgstr ""
+
+#: ../lib/custom.lib.php:1116
+msgid "Imported"
+msgstr ""
+
+#: ../lib/custom.lib.php:1119
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../lib/custom.lib.php:1126
+msgid "No Title"
+msgstr ""
+
+#: ../lib/custom.lib.php:1187
+msgid "Add Content After This"
+msgstr ""
+
+#: ../lib/custom.lib.php:1189
+msgid "Edit"
+msgstr ""
+
+#: ../lib/custom.lib.php:1191
+msgid "Duplicate"
+msgstr ""
+
+#: ../lib/custom.lib.php:1194
+msgid "Remove"
+msgstr ""
+
+#: ../lib/custom.lib.php:1455
+msgid "Free"
+msgstr ""
+
+#: ../lib/customizer.lib.php:55
+msgid "Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:56
+msgid "Background Image"
+msgstr ""
+
+#: ../lib/customizer.lib.php:57
+msgid "No Repeat"
+msgstr ""
+
+#: ../lib/customizer.lib.php:58
+msgid "Repeat All"
+msgstr ""
+
+#: ../lib/customizer.lib.php:59
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../lib/customizer.lib.php:60
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../lib/customizer.lib.php:61
+msgid "Inherit"
+msgstr ""
+
+#: ../lib/customizer.lib.php:62
+msgid "Background Repeat"
+msgstr ""
+
+#: ../lib/customizer.lib.php:63
+msgid "Cover"
+msgstr ""
+
+#: ../lib/customizer.lib.php:64
+msgid "Contain"
+msgstr ""
+
+#: ../lib/customizer.lib.php:65
+msgid "Background Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:66
+msgid "Fixed"
+msgstr ""
+
+#: ../lib/customizer.lib.php:67
+msgid "Scroll"
+msgstr ""
+
+#: ../lib/customizer.lib.php:68
+msgid "Background Attachment"
+msgstr ""
+
+#: ../lib/customizer.lib.php:69
+msgid "Left Top"
+msgstr ""
+
+#: ../lib/customizer.lib.php:70
+msgid "Left Center"
+msgstr ""
+
+#: ../lib/customizer.lib.php:71
+msgid "Left Bottom"
+msgstr ""
+
+#: ../lib/customizer.lib.php:72
+msgid "Right Top"
+msgstr ""
+
+#: ../lib/customizer.lib.php:73
+msgid "Right Center"
+msgstr ""
+
+#: ../lib/customizer.lib.php:74
+msgid "Right Bottom"
+msgstr ""
+
+#: ../lib/customizer.lib.php:75
+msgid "Center Top"
+msgstr ""
+
+#: ../lib/customizer.lib.php:76
+msgid "Center Center"
+msgstr ""
+
+#: ../lib/customizer.lib.php:77
+msgid "Center Bottom"
+msgstr ""
+
+#: ../lib/customizer.lib.php:78
+msgid "Background Position"
+msgstr ""
+
+#: ../lib/customizer.lib.php:79
+msgid "Background Opacity"
+msgstr ""
+
+#: ../lib/customizer.lib.php:80
+msgid "ON"
+msgstr ""
+
+#: ../lib/customizer.lib.php:81
+msgid "OFF"
+msgstr ""
+
+#: ../lib/customizer.lib.php:82
+msgid "All"
+msgstr ""
+
+#: ../lib/customizer.lib.php:83 ../modules/typekit/section-typekit.php:120
+msgid "Cyrillic"
+msgstr ""
+
+#: ../lib/customizer.lib.php:84 ../modules/typekit/section-typekit.php:121
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../lib/customizer.lib.php:85 ../modules/typekit/section-typekit.php:122
+msgid "Devanagari"
+msgstr ""
+
+#: ../lib/customizer.lib.php:86 ../modules/typekit/section-typekit.php:123
+msgid "Greek"
+msgstr ""
+
+#: ../lib/customizer.lib.php:87 ../modules/typekit/section-typekit.php:124
+msgid "Greek Extended"
+msgstr ""
+
+#: ../lib/customizer.lib.php:88 ../modules/typekit/section-typekit.php:125
+msgid "Khmer"
+msgstr ""
+
+#: ../lib/customizer.lib.php:89 ../modules/typekit/section-typekit.php:126
+msgid "Latin"
+msgstr ""
+
+#: ../lib/customizer.lib.php:90
+msgid "Latin Extended"
+msgstr ""
+
+#: ../lib/customizer.lib.php:91
+msgid "Vietnamese"
+msgstr ""
+
+#: ../lib/customizer.lib.php:113 ../lib/customizer.lib.php:217
+#: ../lib/customizer.lib.php:301 ../lib/customizer.lib.php:322
+#: ../lib/customizer.lib.php:343
+msgid "General"
+msgstr ""
+
+#: ../lib/customizer.lib.php:118
+msgid "Navigation"
+msgstr ""
+
+#: ../lib/customizer.lib.php:123
+msgid "Header"
+msgstr ""
+
+#: ../lib/customizer.lib.php:128
+msgid "Sidebar"
+msgstr ""
+
+#: ../lib/customizer.lib.php:138 ../templates/template-room-header.php:99
+msgid "Gallery"
+msgstr ""
+
+#: ../lib/customizer.lib.php:143 ../templates/template-header.php:74
+msgid "Blog"
+msgstr ""
+
+#: ../lib/customizer.lib.php:148
+msgid "Accommodation"
+msgstr ""
+
+#: ../lib/customizer.lib.php:156 ../modules/woocommerce.php:7
+msgid "Shop"
+msgstr ""
+
+#: ../lib/customizer.lib.php:164
+msgid "Site Logo"
+msgstr ""
+
+#: ../lib/customizer.lib.php:170
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:115
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:120
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:126
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:128
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:129
+msgid "Image"
+msgstr ""
+
+#: ../lib/customizer.lib.php:176
+msgid "Lightbox"
+msgstr ""
+
+#: ../lib/customizer.lib.php:183
+msgid "Fonts"
+msgstr ""
+
+#: ../lib/customizer.lib.php:190 ../lib/customizer.lib.php:224
+#: ../lib/customizer.lib.php:308 ../lib/customizer.lib.php:350
+msgid "Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:197
+msgid "Background & Colors"
+msgstr ""
+
+#: ../lib/customizer.lib.php:204
+msgid "Input and Button Elements"
+msgstr ""
+
+#: ../lib/customizer.lib.php:211
+msgid "Frame"
+msgstr ""
+
+#: ../lib/customizer.lib.php:231 ../lib/customizer.lib.php:315
+#: ../lib/customizer.lib.php:329
+msgid "Colors"
+msgstr ""
+
+#: ../lib/customizer.lib.php:238
+msgid "Sub Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:245
+msgid "Mega Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:252
+msgid "Top Bar"
+msgstr ""
+
+#: ../lib/customizer.lib.php:259
+msgid "Contact Info"
+msgstr ""
+
+#: ../lib/customizer.lib.php:266
+msgid "Side Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:273
+msgid "Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:287
+msgid "Content Builder Header"
+msgstr ""
+
+#: ../lib/customizer.lib.php:294
+msgid "Page Tagline & Sub Title"
+msgstr ""
+
+#: ../lib/customizer.lib.php:336
+msgid "Copyright"
+msgstr ""
+
+#: ../lib/customizer.lib.php:357
+msgid "Slider"
+msgstr ""
+
+#: ../lib/customizer.lib.php:364
+msgid "Single Post"
+msgstr ""
+
+#: ../lib/customizer.lib.php:371
+msgid "Single Accommodation"
+msgstr ""
+
+#: ../lib/customizer.lib.php:388
+msgid "Single Product"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1207
+msgid "Retina Logo"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1208 ../lib/customizer.lib.php:4242
+msgid ""
+"Retina Ready Image logo. It should be 2x size of normal logo. For example "
+"200x60px logo will displays at 100x30px"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1217
+msgid "Retina Transparent Logo"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1218
+msgid ""
+"Retina Ready Image logo for menu transparent page. It should be 2x size of "
+"normal logo. For example 200x60px logo will displays at 100x30px. Recommend "
+"logo color is white or bright color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1227
+msgid "Logo Margin Top (in px)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1253
+msgid "Display Retina Logo in Theme Setting"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1254
+msgid ""
+"Check this to replace theme setting to your logo. It helps branding your site"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1265
+msgid "Right Click Protection Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1273
+msgid "Enable Right Click Protection"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1274
+msgid "Check this to disable right click."
+msgstr ""
+
+#: ../lib/customizer.lib.php:1283
+msgid "Enable Right Click Protection Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1284
+msgid ""
+"Check this to enable fullscreen content when visitor tried to right click"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1293
+msgid "Right Click Protection Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1303
+msgid "Right Click Protection Content Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1326
+msgid "Right Click Protection Content Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1349
+msgid "Other Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1357
+msgid "Enable Image Dragging Protection"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1358
+msgid "Check this to disable dragging on all images."
+msgstr ""
+
+#: ../lib/customizer.lib.php:1367
+msgid "Enable Lazy Loading Image"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1368
+msgid ""
+"Check this to enable lazy loading image option to improve site loading speed."
+msgstr ""
+
+#: ../lib/customizer.lib.php:1377
+msgid "Body and Content Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1385
+msgid "Main Content Font Family"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1402
+msgid "Select lightbox color scheme"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1403 ../lib/customizer.lib.php:1414
+msgid "Select which alignment you want to use for lightbox thumbnails"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1413
+msgid "Select lightbox thumbnails alignment"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1424
+msgid "Lightbox slideshow timer"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1425
+msgid "Select number of seconds for lightbox slideshow timer"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1435
+msgid "Main Content Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1461
+msgid "Main Content Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1485
+msgid "Main Content Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1511
+msgid "Main Content Line Height"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1535
+msgid "Header Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1543
+msgid "H1, H2, H3, H4, H5, H6 Font Family"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1567
+msgid "H1, H2, H3, H4, H5, H6 Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1591
+msgid "H1, H2, H3, H4, H5, H6 Font Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1615
+msgid "H1, H2, H3, H4, H5, H6 Font Font Style"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1639
+msgid "H1, H2, H3, H4, H5, H6 Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1665
+msgid "H1 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1690
+msgid "H2 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1715
+msgid "H3 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1740
+msgid "H4 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1765
+msgid "H5 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1790
+msgid "H6 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1815
+msgid "Main Content Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1838
+msgid "Boxed Content Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1861
+msgid "Page Content Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1915
+msgid "Page Content Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1953
+msgid "Page Content Hover Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1991
+msgid "H1, H2, H3, H4, H5, H6 Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2023
+msgid "Horizontal Line Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2046
+msgid "Input and Textarea Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2054
+msgid "Input and Textarea Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2077
+msgid "Input and Textarea Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2100
+msgid "Input and Textarea Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2123
+msgid "Input and Textarea Focus State Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2155
+msgid "Button Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2163
+msgid "Button Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2179
+msgid "Button Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2205
+msgid "Button Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2229
+msgid "Button Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2255
+msgid "Button Font Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2279
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:460
+msgid "Button Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2329
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:473
+msgid "Button Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2352
+msgid "Button Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2375
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:485
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2398
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:498
+msgid "Button Hover Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2421
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2444
+msgid "Enable Frame"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2445
+msgid "Check this to enable frame for site layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2454
+msgid "Frame Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2481
+msgid "General Menu Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2489
+msgid "Menu Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2499
+msgid "Enable Sticky Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2500
+msgid "Enable this option to display main menu fixed when scrolling"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2509
+msgid "Icon Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2517
+msgid "Show Cart Icon (Required Woocommerce plugin)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2518
+msgid ""
+"Enable this option to show cart icon which link to Woocommerce cart page "
+"along with main menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2527
+msgid "Show Client Icon (Required ZM Ajax Login & Register  plugin)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2528
+msgid ""
+"Enable this option to show client icon which link to client login page along "
+"with main menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2537
+msgid "My Booking Page (Optional)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2538
+msgid ""
+"Select my booking page you created and it displays when user is logged in."
+msgstr ""
+
+#: ../lib/customizer.lib.php:2547
+msgid "Menu Font Family"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2564
+msgid "Menu Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2590
+msgid "Menu Padding (in px)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2627
+msgid "Menu Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2651
+msgid "Menu Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2677
+msgid "Menu Font Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2701
+msgid "Main Menu Colors Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2709
+msgid "Menu Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2732
+msgid "Menu Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2764
+msgid "Menu Hover State Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2795
+msgid "Menu Active State Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2818
+msgid "Menu Bar Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2841
+msgid "Icon Colors Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2849
+msgid "Cart Counter Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2872
+msgid "Cart Counter Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2895 ../lib/customizer.lib.php:3272
+msgid "Typography Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2903
+msgid "SubMenu Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2929
+msgid "SubMenu Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2953
+msgid "SubMenu Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2979
+msgid "SubMenu Font Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3003 ../lib/customizer.lib.php:3423
+#: ../lib/customizer.lib.php:5194
+msgid "Color Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3011
+msgid "Sub Menu Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3034
+msgid "Sub Menu Hover State Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3065
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3088
+msgid "Sub Menu Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3111
+msgid "Mega Menu Header Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3134
+msgid "Mega Menu Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3157
+msgid "Display Top Bar"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3158
+msgid "Enable this option to display top bar above main menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3167
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3190
+msgid "Top Bar Menu Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3213
+msgid "Contact Address (Optional)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3214
+msgid "Enter your hotel address."
+msgstr ""
+
+#: ../lib/customizer.lib.php:3223
+msgid "Contact Hours (Optional)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3224
+msgid "Enter your hotel contact hours."
+msgstr ""
+
+#: ../lib/customizer.lib.php:3233
+msgid "Contact Phone Number (Optional)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3234
+msgid "Enter your hotel contact phone number."
+msgstr ""
+
+#: ../lib/customizer.lib.php:3243
+msgid "Open Top Bar Social Icons link in new window"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3244
+msgid "Check this to open top bar social icons link in new window"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3253
+msgid "Enable Side Menu on Desktop"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3263
+msgid "Display Close Menu Button"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3280
+msgid "Side Menu Font Family"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3297
+msgid "Side Menu Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3323
+msgid "Side Menu Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3347
+msgid "Side Menu Font Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3371
+msgid "Side Menu Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3397
+msgid "Side Sub Menu Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3431
+msgid "Side Menu Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3453
+msgid "Side Menu Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3476
+msgid "Side Menu Hover State Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3502
+msgid "Background Image Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3510
+msgid "Page Title Background Image Height (in px)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3536
+msgid "Add Parallax Effect When Scroll"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3537
+msgid ""
+"Enable this option to add parallax effect to header background image when "
+"scrolling pass it"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3546
+msgid "Background Color Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3554
+msgid "Page Header Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3577
+msgid "Page Title Alignment"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3578
+msgid "Select alignment for page title"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3602
+msgid "Page Header Padding Top"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3628
+msgid "Page Header Padding Bottom"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3654
+msgid "Page Header Margin Bottom"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3680 ../lib/customizer.lib.php:3875
+msgid "Page Title Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3706
+msgid "Page Title Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3730
+msgid "Page Title Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3755
+msgid "Page Title Font Style"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3779
+msgid "Page Title Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3805
+msgid "Page Title Line Height"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3829
+msgid "Page Title Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3852
+msgid "Page Tagline Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3901
+msgid "Page Tagline Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3925
+msgid "Page Tagline Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3951
+msgid "Page Tagline Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3977
+msgid "Enable Sticky Sidebar"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3978
+msgid "Check this to displays sidebar fixed when scrolling."
+msgstr ""
+
+#: ../lib/customizer.lib.php:3987
+msgid "Widget Title Font Family"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4004
+msgid "Widget Title Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4030
+msgid "Widget Title Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4054
+msgid "Widget Title Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4080
+msgid "Widget Title Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4104
+msgid "Widget Title Font Style"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4128
+msgid "Sidebar Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4151
+msgid "Sidebar Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4174
+msgid "Sidebar Hover Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4206
+msgid "Sidebar Widget Title Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4241
+msgid "Footer Retina Logo"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4251
+msgid "Footer Sidebar Columns"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4261
+msgid "Open Footer Social Icons link in new window"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4262
+msgid "Check this to open footer social icons link in new window"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4271
+msgid "Footer Font Size (in px)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4297
+msgid "Footer Margin Top (in px)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4323
+msgid "Copyright Font Size (in px)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4349
+msgid "Footer Colors Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4357
+msgid "Footer Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4379
+msgid "Footer Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4410
+msgid "Footer Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4442
+msgid "Footer Hover Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4465
+msgid "Copyright Colors Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4473
+msgid "Copyright Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4495
+msgid "Copyright Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4518
+msgid "Copyright Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4541
+msgid "Copyright Hover Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4564
+msgid "Copyright Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4587
+msgid "Copyright Social Icon Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4610
+msgid "Copyright Content Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4618
+msgid "Copyright Text"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4619
+msgid "Enter your copyright text."
+msgstr ""
+
+#: ../lib/customizer.lib.php:4629
+msgid "Copyright Right Area Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4639
+msgid "Go To Top Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4647
+msgid "Go To Top Button"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4657
+msgid "Go To Top Button Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4679
+msgid "Go To Top Button Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4705
+msgid "Display Full Blog Post Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4706
+msgid ""
+"Check this option to display post full content in blog page (excerpt blog "
+"grid layout)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4715
+msgid "Archive Page Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4716
+msgid "Select page layout for displaying archive page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4726
+msgid "Category Page Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4727
+msgid "Select page layout for displaying category page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4737 ../lib/customizer.lib.php:4748
+msgid "Tag Page Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4738 ../lib/customizer.lib.php:4749
+msgid "Select page layout for displaying tag page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4759
+msgid "Single Post Content Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4782
+msgid "Post Category Link Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4814
+msgid "Post Format Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4837
+msgid "General Post Title Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4845
+msgid "Post Title Font Family"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4861
+msgid "Post Title Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4885
+msgid "Post Title Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4910
+msgid "Post Title Font Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4934
+msgid "Post Title Font Style"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4958
+msgid "Single Post Header Margin Top"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4984
+msgid "Display Post Featured Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4985
+msgid "Check this to display featured header image in single post page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4994
+msgid "Display Post Categories"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4995
+msgid "Check this to display categories in single post page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5004
+msgid "Display Post Date"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5005
+msgid "Check this to display date in single post page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5014
+msgid "Display Post Tags"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5015
+msgid "Check this option to display post tags on single post page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5024
+msgid "Display About Author"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5025
+msgid "Check this option to display about author on single post page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5034
+msgid "Display Related Posts"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5035
+msgid "Check this option to display related posts on single post page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5044
+msgid "Display Previous/Next Navigation"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5045
+msgid ""
+"Check this option to display previous/next navigation on single post page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5054
+msgid "Post Tag Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5085
+msgid "Post Tag Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5115
+msgid "Content Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5123
+msgid "Display Room Content Navigation"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5124
+msgid "Check this to display room content navigation in header."
+msgstr ""
+
+#: ../lib/customizer.lib.php:5133
+msgid "Display Room Amenities & Services"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5134
+msgid "Check this to display room amenities & services content."
+msgstr ""
+
+#: ../lib/customizer.lib.php:5143
+msgid "Display Room Gallery"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5144
+msgid "Check this to display room gallery."
+msgstr ""
+
+#: ../lib/customizer.lib.php:5153
+msgid "Display Other Rooms"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5154
+msgid "Check this to display other rooms section."
+msgstr ""
+
+#: ../lib/customizer.lib.php:5163
+msgid "Other Rooms Grid Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5164
+msgid "Select grid layout for other rooms content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5174
+msgid "Other Rooms Columns"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5184
+msgid "Other Rooms Items"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5202
+msgid "Room Amenities & Services Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5225
+msgid "Room Amenities & Services Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5255
+msgid "Shop Main Page Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5256
+msgid "Select page layout for displaying shop's products page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5266
+msgid "Products Page Show At Most"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5267
+msgid "Select number of product items you want to display per page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5277
+msgid "Display Shop Sorting Filter Option"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5278
+msgid "Check this option to display sorting filter option on shop page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5287
+msgid "Product Price Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5310
+msgid "Product On Sale Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5333
+msgid "Display Related Products"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5334
+msgid "Check this option to display related products on single product page"
+msgstr ""
+
+#: ../lib/menu.lib.php:7
+msgid "Primary Menu"
+msgstr ""
+
+#: ../lib/menu.lib.php:11
+msgid "Demo Primary Menu"
+msgstr ""
+
+#: ../lib/menu.lib.php:14
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../lib/menu.lib.php:15
+msgid "Top Bar Menu"
+msgstr ""
+
+#: ../lib/menu.lib.php:16
+msgid "Side (Mobile) Menu"
+msgstr ""
+
+#: ../lib/menu.lib.php:17
+msgid "Footer Menu"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/accommodation-types/grid.php:56
+#: ../single-room.php:123 ../templates/template-room-related.php:78
+msgid "Size"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/accommodation-types/grid.php:70
+#: ../lib/plugins/hoteller-elementor/templates/accommodation-types/grid.php:84
+#: ../templates/template-room-related.php:86
+#: ../templates/template-room-related.php:94
+msgid "Max"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/accommodation-types/grid.php:70
+#: ../single-room.php:98 ../templates/template-room-related.php:86
+msgid "Adults"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/accommodation-types/grid.php:84
+#: ../single-room.php:106 ../templates/template-room-related.php:94
+msgid "Children"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/accommodation-types/grid.php:93
+#: ../templates/template-room-related.php:100
+msgid "Book Now From"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/accommodation-types/grid.php:128
+#: ../single-room.php:44 ../templates/template-room-related.php:139
+msgid "From"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/accommodation-types/grid.php:134
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:146
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:148
+#: ../templates/template-room-related.php:145
+msgid "View Detail"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/grid.php:25
+msgid "Booking ID"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/grid.php:43
+#: ../modules/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/grid.php:52
+msgid "Confirmed"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/grid.php:60
+msgid "Pending"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/grid.php:67
+msgid "Cancelled"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/grid.php:81
+msgid "Check-in"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/grid.php:91
+msgid "Check-out"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/grid.php:104
+msgid "night(s)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/grid.php:113
+msgid "Contact details"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/grid.php:134
+msgid "Guest name"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/grid.php:146
+msgid "Details"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/grid.php:162
+msgid "Total"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/index.php:53
+msgid "You don't have any booking history"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates/booking-history/index.php:63
+msgid "Please log in to see your booking history"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/templates_source.php:30
+msgid "Hoteller Templates"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/tools.php:109
+msgid "Purchase URL"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/accommodation-types.php:41
+msgid "Accommodation Types"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/accommodation-types.php:124
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:103
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:222
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:127
+#: ../lib/plugins/hoteller-elementor/widgets/booking-history.php:103
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:101
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:103
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:201
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:104
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:265
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:103
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:221
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:103
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:201
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:104
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:328
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:104
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:247
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:104
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:224
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:104
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:237
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:101
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:181
+msgid "Content"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/accommodation-types.php:135
+msgid "Style 1"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/accommodation-types.php:136
+msgid "Style 2"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/accommodation-types.php:144
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:148
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:119
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:119
+msgid "Columns"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/accommodation-types.php:162
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:153
+#: ../lib/plugins/hoteller-elementor/widgets/booking-history.php:110
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/accommodation-types.php:180
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:171
+msgid "Categories"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/accommodation-types.php:190
+msgid "Sort By"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/accommodation-types.php:194
+msgid "Default WordPress Order"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/accommodation-types.php:203
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:205
+#: ../lib/plugins/hoteller-elementor/widgets/booking-history.php:128
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:239
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:314
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:233
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:223
+msgid "Show Pagination"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/accommodation-types.php:206
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:187
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:199
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:211
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:184
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:196
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:208
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:275
+#: ../lib/plugins/hoteller-elementor/widgets/booking-history.php:131
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:140
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:152
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:164
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:176
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:156
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:187
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:218
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:230
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:242
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:254
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:160
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:172
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:184
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:196
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:140
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:152
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:164
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:176
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:231
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:262
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:293
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:305
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:317
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:193
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:224
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:236
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:195
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:226
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:156
+msgid "Yes"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/accommodation-types.php:207
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:188
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:200
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:212
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:185
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:197
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:209
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:276
+#: ../lib/plugins/hoteller-elementor/widgets/booking-history.php:132
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:141
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:153
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:165
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:177
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:157
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:188
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:219
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:231
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:243
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:255
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:161
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:173
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:185
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:197
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:141
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:153
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:165
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:177
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:232
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:263
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:294
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:306
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:318
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:194
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:225
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:237
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:196
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:227
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:157
+msgid "No"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:41
+msgid "Grid Album"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:110
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:108
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:111
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:111
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:111
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:108
+msgid "Slides"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:127
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:138
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:301
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:204
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:206
+msgid "Sub Title"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:132
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:155
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:170
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:150
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:152
+msgid "Link URL"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:170
+msgid "Layout 1"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:171
+msgid "Layout 2"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:172
+msgid "Layout 3"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:173
+msgid "Layout 4"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:174
+msgid "Layout 5"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:175
+msgid "Layout 6"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:176
+msgid "Layout 7"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:184
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:137
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:137
+msgid "Column Spacing"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:196
+msgid "Glare Effect"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:208
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:231
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:210
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:230
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:210
+msgid "Background Overlay"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:243
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:203
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:222
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:242
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:222
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:290
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:245
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:303
+msgid "Title Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:255
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:215
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:234
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:254
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:234
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:302
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:257
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:315
+msgid "Title Font Size (in px)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:277
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:237
+msgid "Title Line Height (in em)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:299
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:259
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:256
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:276
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:256
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:402
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:346
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:279
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:337
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:249
+msgid "Title Letter Spacing (in px)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:321
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:281
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:278
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:298
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:278
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:424
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:368
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:301
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:359
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:271
+msgid "Title Text Transform"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:325
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:399
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:285
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:370
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:512
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:191
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:282
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:211
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:302
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:191
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:282
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:428
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:372
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:446
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:305
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:379
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:453
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:363
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:437
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:275
+msgid "None"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:326
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:400
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:286
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:371
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:513
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:283
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:303
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:283
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:429
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:373
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:447
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:306
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:380
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:454
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:364
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:438
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:276
+msgid "Uppercase"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:327
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:401
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:287
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:372
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:514
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:284
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:304
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:284
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:430
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:374
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:448
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:307
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:381
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:455
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:365
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:439
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:277
+msgid "Lowercase"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:328
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:402
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:288
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:373
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:515
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:285
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:305
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:285
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:431
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:375
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:449
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:308
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:382
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:456
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:366
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:440
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:278
+msgid "Capitalize"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:339
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:310
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:319
+msgid "Sub Title Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:351
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:322
+msgid "Sub Title Font Size"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:373
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:344
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:353
+msgid "Sub Title Letter Spacing (in px)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:395
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:366
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:375
+msgid "Sub Title Text Transform"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:413
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:190
+msgid "Border Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/album-grid.php:425
+msgid "Border Width (in px)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:41
+msgid "Blog Posts"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:138
+msgid "Classic"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:139
+msgid "Grid"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:140
+msgid "Grid No Space"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:141
+msgid "Masonry"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:142
+msgid "List"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:143
+msgid "List Circle"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:144
+msgid "Metro"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:145
+msgid "Metro No Space"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:181
+msgid "Show Post Categories"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:193
+msgid "Show Post Date"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:217
+msgid "Text Display"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:221
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:143
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:145
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:386
+msgid "Excerpt"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:222
+msgid "Full Content"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:223
+msgid "No text"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:232
+msgid "Text Alignment"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:236
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:138
+msgid "Left"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:240
+msgid "Center"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:244
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:139
+msgid "Right"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:254
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/blog-posts.php:272
+msgid "Strip HTML from Post Content"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/booking-history.php:41
+msgid "Booking History"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:39
+msgid "Distortion Hover Grid"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:126
+msgid "Image on hover"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:149
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:151
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:164
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:144
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:146
+msgid "Link Title"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:171
+msgid "Theme"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:175
+msgid "Theme 1"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:176
+msgid "Theme 2"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:177
+msgid "Theme 3"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:178
+msgid "Theme 4"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:179
+msgid "Theme 5"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:180
+msgid "Theme 6"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:181
+msgid "Theme 7"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:182
+msgid "Theme 8"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:183
+msgid "Theme 9"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:184
+msgid "Theme 10"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:395
+msgid "Excerpt Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:407
+msgid "Excerpt Font Size"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:431
+msgid "Link"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:440
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:467
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:451
+msgid "Link Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:452
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:464
+msgid "Link Font Size"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:486
+msgid "Link Letter Spacing (in px)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/distortion-grid.php:508
+msgid "Link Text Transform"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:41
+msgid "Grid Gallery"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:110
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:111
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:110
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:110
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:111
+msgid "Add Images"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:149
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:169
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:149
+msgid "Hover Effect"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:161
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:181
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:161
+msgid "Show Title on Hover"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:173
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:193
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:173
+msgid "Image Lightbox"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:185
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:205
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:185
+msgid "Lightbox Content"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-grid.php:190
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:210
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:190
+msgid "Title and Caption"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:42
+msgid "Horizontal Gallery"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:120
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:195
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:120
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:165
+msgid "Image Size"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:124
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:199
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:124
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:169
+msgid "Medium (default 768px x 768px max)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:125
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:200
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:125
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:170
+msgid "Large (default 1024px x 1024px max)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:126
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:201
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:126
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:171
+msgid "Original image resolution"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:134
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:209
+msgid "Height (in px)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:153
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:228
+msgid "Fullscreen"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:165
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:240
+msgid "Spacing (in px)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:184
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:259
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:190
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:192
+msgid "Auto Play"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:196
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:271
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:202
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:204
+msgid "Timer (in seconds)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:215
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:290
+msgid "Loop"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:227
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:302
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:221
+msgid "Show Navigation"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:251
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:153
+msgid "Parallax Effect"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:274
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:467
+msgid "Navigation Background Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:287
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:480
+msgid "Navigation Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-horizontal.php:299
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:492
+msgid "Pagination Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:41
+msgid "Justified Gallery"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:119
+msgid "Row Height"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:138
+msgid "Margin"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-justified.php:157
+msgid "Justify Last Row"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/gallery-masonry.php:41
+msgid "Masonry Gallery"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:42
+msgid "Horizontal Slider"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:147
+msgid "Image (max. 3)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:159
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:138
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:140
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:213
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:140
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:142
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:141
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:143
+msgid "Description"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:166
+msgid "View Gallery"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:337
+msgid "Content Background Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:349
+msgid "Text Content Width (in %)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:368
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:215
+msgid "Title font Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:380
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:227
+msgid "Title Font Size"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:442
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:289
+msgid "Content font Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-horizontal.php:454
+msgid "Link font Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:42
+msgid "Parallax Slider"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:166
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:171
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:168
+msgid "Height"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:256
+msgid "Background OVerlay"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:268
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:258
+msgid "Title Width"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:324
+msgid "Line Height (in em)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:386
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:393
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:377
+msgid "Description Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:398
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:405
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:389
+msgid "Description Font Size"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:420
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:427
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:411
+msgid "Description Letter Spacing (in px)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:442
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:449
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:433
+msgid "Description Text Transform"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-parallax.php:510
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:480
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:464
+msgid "Pagination Background Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:42
+msgid "Property Clip Slider"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:134
+msgid "Image Alignment"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:147
+msgid "Width"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:215
+msgid "Default description"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:233
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:246
+msgid "Content Background"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-property-clip.php:331
+msgid "Sub Title Font Size (in px)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:42
+msgid "Zoom Slider"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/slider-zoom.php:281
+msgid "Title Margin Top (in %)"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:39
+msgid "Timeline"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:202
+msgid "Bullet Background Color"
+msgstr ""
+
+#: ../lib/plugins/hoteller-elementor/widgets/timeline.php:301
+msgid "Content Font Size"
+msgstr ""
+
+#: ../lib/tgm.lib.php:180 ../modules/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../lib/tgm.lib.php:181 ../modules/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../lib/tgm.lib.php:182 ../modules/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../lib/tgm.lib.php:183 ../modules/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../lib/tgm.lib.php:184 ../modules/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../lib/tgm.lib.php:185 ../modules/class-tgm-plugin-activation.php:394
+#: ../modules/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../lib/tgm.lib.php:186
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:139
+msgid "Demo Import"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:140
+msgid "Import Demo Content"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:181
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:183
+msgid "Authenticate"
+msgstr ""
+
+#: ../lib/widgets.lib.php:49
+msgid "Items (default 3)"
+msgstr ""
+
+#: ../lib/widgets.lib.php:51 ../lib/widgets.lib.php:302
+msgid "Display Thumbnails"
+msgstr ""
+
+#: ../lib/widgets.lib.php:129
+msgid "Flickr ID"
+msgstr ""
+
+#: ../lib/widgets.lib.php:129
+msgid "Find your Flickr ID here"
+msgstr ""
+
+#: ../lib/widgets.lib.php:133 ../lib/widgets.lib.php:218
+msgid "Items (default 9)"
+msgstr ""
+
+#: ../lib/widgets.lib.php:196
+msgid ""
+"Error: Please check if you enter Instagram username and Access Token in "
+"Theme Setting > Social Profiles"
+msgstr ""
+
+#: ../lib/widgets.lib.php:287
+msgid "Category"
+msgstr ""
+
+#: ../lib/widgets.lib.php:300
+msgid "Items (default 5)"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:393
+#: ../modules/class-tgm-plugin-activation.php:912
+#: ../modules/class-tgm-plugin-activation.php:2618
+#: ../modules/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:395
+#: ../modules/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:1019
+#: ../modules/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3594
+#: ../modules/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3594
+#: ../modules/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:11
+msgid "Uploaded Fonts Settings"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:18
+msgid "Uploaded Fonts"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:19
+msgid "Here you can add your custom fonts"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:26
+msgid "Upload Font"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:35
+msgid "Font File (*.woff)"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:39
+#: ../modules/typekit/section-typekit.php:106
+msgid "Fallback"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:40 ../modules/fonts/section-fonts.php:42
+#: ../modules/typekit/section-typekit.php:108
+msgid "Helvetica, Arial, sans-serif"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:43
+#: ../modules/typekit/section-typekit.php:109
+msgid "Georgia, serif"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:44 ../modules/fonts/section-fonts.php:45
+#: ../modules/typekit/section-typekit.php:110
+#: ../modules/typekit/section-typekit.php:111
+msgid "\"Comic Sans MS\", cursive, sans-serif"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:46
+#: ../modules/typekit/section-typekit.php:112
+msgid "\"Lucida Console\", Monaco, monospace"
+msgstr ""
+
+#: ../modules/import/parsers.php:42 ../modules/import/parsers.php:72
+#: ../modules/import/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../modules/import/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../modules/import/parsers.php:84 ../modules/import/parsers.php:89
+#: ../modules/import/parsers.php:306 ../modules/import/parsers.php:502
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:132
+#: ../modules/import/wordpress-importer.php:141
+#: ../modules/import/wordpress-importer.php:192
+#: ../modules/import/wordpress-importer.php:196
+#: ../modules/import/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:322
+msgid "- Select -"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:372
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:516
+#: ../modules/import/wordpress-importer.php:742
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:646
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:708
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:874
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:881
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:944
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:957
+msgid "Invalid file type"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:1007
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:1015
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:1027
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:1033
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:1133
+msgid "Import WordPress"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:1140
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:1155
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:1156
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:1230
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: ../modules/kirki/example.php:175
+msgid "Color Control (hex-only)"
+msgstr ""
+
+#: ../modules/kirki/example.php:186
+msgid "Color Control (with alpha channel)"
+msgstr ""
+
+#: ../modules/kirki/example.php:200
+msgid "Color Control - hue only."
+msgstr ""
+
+#: ../modules/kirki/example.php:790
+msgid "This is a sortable control."
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:12
+msgid "Typekit Settings"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:21
+msgid "Enable Typekit"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:27
+msgid "Enable"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:28
+msgid "Disable"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:35
+msgid "Typekit ID"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:51
+msgid "Typekit Fonts"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:52
+msgid "Here you can add typekit fonts"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:59
+msgid "Typekit Font"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:77
+msgid "CSS Name"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:81
+msgid "Variants"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:84
+msgid "100"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:85
+msgid "100italic"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:86
+msgid "200"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:87
+msgid "200italic"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:88
+msgid "300"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:89
+msgid "300italic"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:90
+msgid "regular"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:91
+msgid "italic"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:92
+msgid "500"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:93
+msgid "500italic"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:94
+msgid "600"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:95
+msgid "600italic"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:96
+msgid "700"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:97
+msgid "700italic"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:98
+msgid "800"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:99
+msgid "800italic"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:100
+msgid "900"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:101
+msgid "900italic"
+msgstr ""
+
+#: ../modules/typekit/section-typekit.php:117
+msgid "Subsets"
+msgstr ""
+
+#: ../page-l.php:58 ../page-r.php:56 ../page.php:58
+msgid "Pages:"
+msgstr ""
+
+#: ../search.php:28
+msgid "If you didn't find what you were looking for, try a new search."
+msgstr ""
+
+#: ../search.php:122
+msgid "Read More"
+msgstr ""
+
+#: ../single-room.php:57 ../single-room.php:65
+msgid "Book Now"
+msgstr ""
+
+#: ../single-room.php:78
+msgid "Bed Type"
+msgstr ""
+
+#: ../single-room.php:92
+msgid "Adults & Children"
+msgstr ""
+
+#: ../single-room.php:136
+msgid "View"
+msgstr ""
+
+#: ../single-room.php:194
+msgid "Amenities"
+msgstr ""
+
+#: ../single-room.php:226
+msgid "Services"
+msgstr ""
+
+#: ../templates/template-header.php:59
+msgid "Blog Archives"
+msgstr ""
+
+#: ../templates/template-header.php:68
+msgid "Search"
+msgstr ""
+
+#: ../templates/template-header.php:118
+msgid "Archive posts in "
+msgstr ""
+
+#: ../templates/template-header.php:131
+msgid "Search Results for "
+msgstr ""
+
+#: ../templates/template-menu-address.php:25
+msgid "address"
+msgstr ""
+
+#: ../templates/template-menu-address.php:48
+msgid "tel"
+msgstr ""
+
+#: ../templates/template-menu-address.php:50
+#: ../templates/template-topmenu.php:375
+msgid "Call Us"
+msgstr ""
+
+#: ../templates/template-post-navigation.php:42
+msgid "Previous Article"
+msgstr ""
+
+#: ../templates/template-post-navigation.php:83
+msgid "Next Article"
+msgstr ""
+
+#: ../templates/template-post-related.php:44
+msgid "Related Articles"
+msgstr ""
+
+#: ../templates/template-room-header.php:97
+msgid "Detail"
+msgstr ""
+
+#: ../templates/template-room-header.php:98
+msgid "Amenities & Services"
+msgstr ""
+
+#: ../templates/template-room-related.php:40
+msgid "Other Rooms"
+msgstr ""
+
+#: ../templates/template-room-related.php:41
+msgid "Could also be interest for you"
+msgstr ""
+
+#: ../templates/template-sidemenu.php:236
+#: ../templates/template-topmenu-center-menus.php:318
+#: ../templates/template-topmenu-left.php:344
+#: ../templates/template-topmenu.php:285
+msgid "Login"
+msgstr ""
+
+#: ../templates/template-sidemenu.php:255
+#: ../templates/template-topmenu-center-menus.php:361
+#: ../templates/template-topmenu-left.php:388
+#: ../templates/template-topmenu.php:328
+msgid "Logout"
+msgstr ""
+
+#: ../templates/template-topmenu-center-menus.php:357
+#: ../templates/template-topmenu-center-menus.php:376
+#: ../templates/template-topmenu-left.php:384
+#: ../templates/template-topmenu.php:324
+msgid "My Booking"
+msgstr ""
+
+#: ../templates/template-topmenu-center-menus.php:394
+#: ../templates/template-topmenu-left.php:408
+#: ../templates/template-topmenu.php:348
+msgid "View Cart"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Leave a reply"
+#~ msgstr "Leave a Reply"
+
+#, fuzzy
+#~ msgid "Cancel Reply"
+#~ msgstr "Leave a Reply"
