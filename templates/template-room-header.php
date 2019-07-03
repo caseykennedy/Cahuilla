@@ -19,11 +19,8 @@ $hoteller_page_content_class = hoteller_get_page_content_class();
 
 $pp_page_bg = '';
 
-//Check if display blog featured content
-$tg_blog_feat_content = get_theme_mod('tg_blog_feat_content', true);
-
 //Get page featured image
-if(has_post_thumbnail($current_page_id, 'original') && !empty($tg_blog_feat_content))
+if(has_post_thumbnail($current_page_id, 'original'))
 {
     $image_id = get_post_thumbnail_id($current_page_id); 
     $image_thumb = wp_get_attachment_image_src($image_id, 'original', true);

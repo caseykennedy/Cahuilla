@@ -24,7 +24,7 @@
 	
 	#page_content_wrapper:not(.wide), .standard_wrapper, .footer_bar_wrapper, #footer ul.sidebar_widget, #page_content_wrapper.wide:not(.photoframe) .standard_wrapper, .ppb_popup.one.contain, #blog_promo_link_wrapper, #menu_wrapper, .page_content_wrapper:not(.wide)
 	{
-		max-width: 1425px;
+		max-width: 1440px;
 		width: 100%;
 		box-sizing: border-box;
 		margin: auto;
@@ -54,8 +54,8 @@
 	
 	#footer ul.sidebar_widget
 	{
-		padding-top: 60px;
-		padding-bottom: 60px;
+		padding-top: 100px;
+		padding-bottom: 100px;
 	}
 	
 	#page_content_wrapper .standard_wrapper

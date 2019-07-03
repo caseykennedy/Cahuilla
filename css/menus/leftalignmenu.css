@@ -3,10 +3,10 @@
 	padding-top: 75px;
 }
 
-.top_bar .standard_wrapper
+/* .top_bar .standard_wrapper
 {
 	min-height: 74px;
-}
+} */
 
 #logo_wrapper
 {
@@ -38,18 +38,20 @@
 .logo_container
 {
 	display: block;
-	float: left;
-	width: auto;
+	/* float: left; */
+	width: 100%;
 	height: auto;
+
+	border-bottom: 1px solid #8c7d30;
 }
 
 html[data-menu=leftalign] #menu_wrapper
 {
-	width: auto;
-	float: left;
+	width: 100%;
+	/* float: left; */
 	height: 100%;
-	padding: 0;
-	margin-left: 40px;
+	/* padding: 0; */
+	/* margin-left: 40px; */
 }
 
 html[data-menu=leftalign] #logo_right_wrapper #logo_right_button
@@ -100,5 +102,139 @@ html[data-menu=leftalign] #logo_right_wrapper
 	html[data-menu=leftalign] .top_bar
 	{
 		padding-bottom: 0;
+	}
+}
+
+/*  
+#Cahuilla Logo
+================================================== 
+*/
+
+.c-logo__wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 1rem 0;
+	align-items: center;
+	justify-content: space-between;
+}
+
+@media only screen and (min-width: 767px) {
+	.c-logo__wrapper {
+		/* padding: 1rem 2rem; */
+	}
+}
+
+.c-logo {
+	display: block;
+	width: 298px;
+	height: 60px;
+}
+
+.c-logo.c-logo--footer {
+	width: 180px;
+}
+
+.c-logo svg {
+	width: 100%;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 960px) {
+	.c-logo__links {
+		display: none;
+	}
+}
+
+@media only screen and (min-width: 767px) {
+	.c-logo__links {
+		display: none;
+	}
+}
+
+.c-logo__links ul {
+	list-style: none;
+}
+
+.c-logo__links ul li {
+	display: inline;
+	padding-left: 1.6rem;
+}
+
+.c-logo__links ul li a {
+	color: white;
+	font-size: 14px;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
+
+.c-logo__links ul li span {
+	color: #8f7d1b;
+	padding-right: 0.2rem;
+	position: relative;
+	top: 2px;
+}
+
+/*  
+#Cahuilla Footer — I know, I know, this is horrible. To be fair, though, so is working with wordpress themes.
+================================================== 
+*/
+
+#footer .widgettitle span
+{
+	font-size: 1.2rem;
+	margin-bottom: 1em;
+}
+
+
+.split-icon {
+	position: relative;
+	float:left;
+	margin-right: 20px;
+	top: -2px;
+}
+
+.split-icon--tall {
+	top: -6px;
+}
+
+.border--right {
+	border-right: none;
+}
+
+@media only screen and (min-width: 767px) {
+	.border--right {
+		border-right: 1px solid #8c7d30;
+	}
+}
+
+
+.row__end div .elementor-row {
+	justify-content: flex-end;
+}
+
+@media only screen and (min-width: 767px) {
+	.border--right {
+		border-right: 1px solid #8c7d30;
+	}
+}
+
+.card__overlay {
+
+}
+
+/* @media only screen and (max-width: 767px) {
+	.card__overlay {
+		padding: 6%;
+	}
+} */
+
+@media only screen and (min-width: 768px) and (max-width: 960px) {
+	.card__overlay {
+		width: 80% !important;
+	}
+}
+
+@media only screen and (min-width: 767px) {
+	.card__overlay {
+		width: 60% !important;
 	}
 }

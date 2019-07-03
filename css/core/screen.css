@@ -983,7 +983,7 @@ body.centeralign3 #menu_wrapper #nav_wrapper
 	display: table;
 	width: 100%;
 	height: 100%;
-	text-align: center;
+	/* text-align: center; */
 	border-top: 1px solid #ccc;
 }
 
@@ -1936,7 +1936,7 @@ body.centeralign3 #menu_wrapper div .nav > li
 @media only screen and (min-width: 1200px) {
 	#menu_wrapper .nav ul li.megamenu > ul, #menu_wrapper div .nav li.megamenu > ul
 	{
-		max-width: 1425px;
+		max-width: 1440px;
 		width: 100%;
 		width: calc(100% - 180px);
 		box-sizing: border-box;
@@ -2078,7 +2078,7 @@ body.leftmenu #footer_wrapper
 #footer .sidebar_widget li h2.widgettitle
 {
 	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 }
 
 #footer ul.sidebar_widget
@@ -2262,7 +2262,7 @@ body.leftmenu #footer_wrapper
 	-webkit-font-smoothing: antialiased;
 	clear: both;
 	color: #fff;
-	border-top: 1px solid #444;
+	/* border-top: 1px solid #444; */
 	padding-top: 20px;
 }
 
@@ -2272,6 +2272,7 @@ body.leftmenu #footer_wrapper
 	margin-top: 50px;
 	float: none;
 	width: 100%;
+	border: none
 }
 
 #footer .logo_container .logo_align

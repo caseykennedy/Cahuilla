@@ -387,6 +387,13 @@ function hoteller_unregister_elementor_widgets($obj){
 	$obj->unregister_widget_type('sidebar');
 }
 
+//Disable Elementor getting started
+add_action( 'admin_init', function() {
+	if ( did_action( 'elementor/loaded' ) ) {
+		remove_action( 'admin_init', [ \Elementor\Plugin::$instance->admin, 'maybe_redirect_to_getting_started' ] );
+	}
+}, 1 );
+
 function hoteller_body_class_names($classes) 
 {
 	$post = hoteller_get_wp_post();
