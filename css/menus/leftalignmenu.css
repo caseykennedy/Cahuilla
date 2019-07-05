@@ -138,13 +138,13 @@ html[data-menu=leftalign] #logo_right_wrapper
 	width: 100%;
 }
 
+.c-logo__links {}
+
 @media only screen and (min-width: 768px) and (max-width: 960px) {
-	.c-logo__links {
-		display: none;
-	}
+	
 }
 
-@media only screen and (min-width: 767px) {
+@media only screen and (max-width: 767px) {
 	.c-logo__links {
 		display: none;
 	}
@@ -184,10 +184,13 @@ html[data-menu=leftalign] #logo_right_wrapper
 	margin-bottom: 1em;
 }
 
+.footer_bar {
+	margin-top: 16vh;
+}
 
 .split-icon {
 	position: relative;
-	float:left;
+	float: left;
 	margin-right: 20px;
 	top: -2px;
 }
