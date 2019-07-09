@@ -295,83 +295,79 @@ elseif(is_home())
     	<?php
     	    }
     	?>
-    	<!-- End logo -->
-    	
-        <div id="menu_wrapper">
-
-				<div class="">
-	        <div id="nav_wrapper">
-	        	<div class="nav_wrapper_inner">
-	        		<div id="menu_border_wrapper">
-	        			<?php 	
-	        				//Check if has custom menu
-	        				if(is_object($post) && $post->post_type == 'page')
-	    					{
-	    						$page_menu = get_post_meta($current_page_id, 'page_menu', true);
-	    					}
-	        			
-	        				if(empty($page_menu))
-	    					{
-	    						if ( has_nav_menu( 'primary-menu' ) ) 
-	    						{
-	    		    			    wp_nav_menu( 
-	    		    			        	array( 
-	    		    			        		'menu_id'			=> 'main_menu',
-	    		    			        		'menu_class'		=> 'nav',
-	    		    			        		'theme_location' 	=> 'primary-menu',
-	    		    			        		'walker' => new Hoteller_walker(),
-	    		    			        	) 
-	    		    			    ); 
-	    		    			}
-	    	    			}
-	    	    			else
-	    				    {
-	    				     	if( $page_menu && is_nav_menu( $page_menu ) ) {  
-	    						    wp_nav_menu( 
-	    						        array(
-	    						            'menu' => $page_menu,
-	    						            'walker' => new Hoteller_walker(),
-	    						            'menu_id'			=> 'main_menu',
-	    		    			        	'menu_class'		=> 'nav',
-	    						        )
-	    						    );
-	    						}
-	    				    }
-	        			?>
-	        		</div>
-	        	</div>
-	        </div>
-	        <!-- End main nav -->
-					</div>
-        </div>
-
-
-
-
-
-        
-        <!-- Begin right corner buttons -->
-        <div id="logo_right_wrapper">
-					<div id="logo_right_button">		
-					<!-- Begin side menu -->
+			<!-- End logo -->   
+			
+			<!-- Begin right corner buttons -->
+			<div id="logo_right_wrapper">
+				<div id="logo_right_button">		
+				<!-- Begin side menu -->
+				<?php
+						if ( has_nav_menu( 'side-menu' ) ) 
+						{
+				?>
+						<a href="javascript:;" id="mobile_nav_icon"><span class="ti-menu"></span></a>
 					<?php
-							if ( has_nav_menu( 'side-menu' ) ) 
-							{
-					?>
-							<a href="javascript:;" id="mobile_nav_icon"><span class="ti-menu"></span></a>
-						<?php
-							}
-					?>
-					<!-- End side menu -->
-					</div>
+						}
+				?>
+				<!-- End side menu -->
 				</div>
-				<!-- End right corner buttons -->
+			</div>
+			<!-- End right corner buttons -->
+    </div>
+	</div>
+</div>
 
-
-
-
-        
-    	</div>
+<div class="menu__wrapper">
+<div id="menu_wrapper" >
+	<div class="">
+		<div id="nav_wrapper">
+			<div class="nav_wrapper_inner">
+				<div id="menu_border_wrapper">
+					<?php 	
+						//Check if has custom menu
+						if(is_object($post) && $post->post_type == 'page')
+					{
+						$page_menu = get_post_meta($current_page_id, 'page_menu', true);
+					}
+					
+						if(empty($page_menu))
+					{
+						if ( has_nav_menu( 'primary-menu' ) ) 
+						{
+									wp_nav_menu( 
+												array( 
+													'menu_id'			=> 'main_menu',
+													'menu_class'		=> 'nav',
+													'theme_location' 	=> 'primary-menu',
+													'walker' => new Hoteller_walker(),
+												) 
+									); 
+							}
+						}
+						else
+						{
+							if( $page_menu && is_nav_menu( $page_menu ) ) {  
+								wp_nav_menu( 
+										array(
+												'menu' => $page_menu,
+												'walker' => new Hoteller_walker(),
+												'menu_id'			=> 'main_menu',
+												'menu_class'		=> 'nav',
+										)
+								);
+						}
+						}
+					?>
+				</div>
+			</div>
 		</div>
+		<!-- End main nav -->
+	</div>
+</div>
 
 </div>
+
+
+
+        
+        

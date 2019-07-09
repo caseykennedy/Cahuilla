@@ -63,7 +63,7 @@ jQuery(document).ready(function(){
 		else
 		{
 			//Calculate wrapper padding top value
-			jQuery('#wrapper').css('paddingTop', parseInt(jQuery('.header_style_wrapper').height())+'px');
+			// jQuery('#wrapper').css('paddingTop', parseInt(jQuery('.header_style_wrapper').height())+'px');
 			
 			//Reset menu padding top and bottom
 			jQuery('#menu_wrapper div .nav > li > a').attr('style', '');
@@ -149,10 +149,11 @@ jQuery(document).ready(function(){
 	var SearchPaddingTop = parseInt(jQuery('.top_bar #searchform button').css('paddingTop'));
 	var menuLayout = jQuery('#pp_menu_layout').val();
 	
-	if(menuLayout != 'leftmenu' || jQuery(window).width()<=768)
+	/*if(menuLayout != 'leftmenu' || jQuery(window).width()<=768)
 	{
 		jQuery('#wrapper').css('paddingTop', parseInt(jQuery('.header_style_wrapper').height())+'px');
 	}
+	*/
 	
 	if(menuLayout != 'leftmenu' || jQuery(window).width()<=960)
 	{

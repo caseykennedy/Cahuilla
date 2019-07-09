@@ -238,6 +238,7 @@ if(empty($page_show_copyright))
 					$tg_footer_social_link = get_theme_mod('tg_footer_social_link' ,true);
 			?>
 			<div class="social_wrapper">
+					<div class="regularly-unexpected">Regularly Unexpected</div>
 			    <ul>
 			    	<?php
 			    		$pp_facebook_url = get_option('pp_facebook_url');

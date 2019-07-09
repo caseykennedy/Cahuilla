@@ -856,8 +856,8 @@ body.leftmenu.admin-bar .logo_container
 .header_style_wrapper
 {
 	width: 100%;
-	float: left;
-	position: fixed;
+	/* float: left; */
+	position: relative;
 	top: 0;
 	left: 0;
 	z-index: 9;
@@ -866,7 +866,7 @@ body.leftmenu.admin-bar .logo_container
 
 body.admin-bar .header_style_wrapper
 {
-	padding-top: 32px;
+	/* padding-top: 32px; */
 }
 
 body.leftmenu .header_style_wrapper
@@ -887,8 +887,8 @@ body.leftmenu .header_style_wrapper
 	background: #fff;
 	background: rgb(256,256,256,0.95);
 	background: rgba(256,256,256,0.95);
-	border-bottom: 1px solid #dce0e0;
-	float: left;
+	/* border-bottom: 1px solid #dce0e0; */
+	/* float: left; */
 	
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
@@ -2195,12 +2195,12 @@ body.leftmenu #footer_wrapper
 
 #footer ul.sidebar_widget li ul li
 {
-	margin: 0 0 10px 0;
+	margin: 0 0 20px 0;
 }
 
 #footer ul.sidebar_widget li ul li ul.sub-menu
 {
-	margin-left: 15px;
+	margin-left: 20px;
 }
 
 #footer ul.sidebar_widget li ul.flickr li
